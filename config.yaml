@@ -11,7 +11,7 @@ permalinks:
 menu:
   main:
     - name: About
-      url: /about/ 5144310672
+      url: /about/ 
     - name: Instagram
       url: https://www.instagram.com/dfra_location_/profilecard/?igsh=cDY1dTFjMXZuMGZi
     - name: Snapchat
@@ -31,9 +31,9 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 50
+    height: 100
     url: logo.png
-    width: 50
+    width: 100
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

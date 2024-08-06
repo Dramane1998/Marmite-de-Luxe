@@ -1,5 +1,5 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
+date: "2016-05-05T21:48:51-07:00" 
 title: Nous concernant
 ---
 
@@ -11,5 +11,3 @@ plusieurs facilités du debut jusqu'à la fin de votre location.
 
 Nos locations sont d'une durée de 24h renouvelable en tout temps. 
 
-```r
-blogdown::new_post("Post Title", ext = '.Rmd')
