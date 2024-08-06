@@ -1,6 +1,15 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
-title: About
+title: Nous concernant
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Nous sommes des locateurs de magnifiques marmites chauffantes qui apporteront
+une touche de beauté à vos evenements grace à la qualité et au luxe de nos
+marmites chauffantes et de nos couverts.
+Aussi nous vous evitons le stresses dans l'organisation de vos evenemts en vous
+plusieurs facilités du debut jusqu'à la fin de votre location.
+
+Nos locations sont d'une durée de 24h renouvelable en tout temps. 
+
+```r
+blogdown::new_post("Post Title", ext = '.Rmd')
