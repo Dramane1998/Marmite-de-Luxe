@@ -20,6 +20,6 @@ Fourchette--------------------1$
 Couteau-----------------------1$
 
 Bougie pour marmite-----------1$ 
-
+ 
 
 NB: Les prix de locations sont unitaires.
