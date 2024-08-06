@@ -10,4 +10,8 @@ Aussi nous vous evitons le stresses dans l'organisation de vos evenemts en vous
 plusieurs facilités du debut jusqu'à la fin de votre location.
 
 Nos locations sont d'une durée de 24h renouvelable en tout temps.  
+
+```r
+
+blogdown::new_post("Post Title", ext = '.Rmd')
  
