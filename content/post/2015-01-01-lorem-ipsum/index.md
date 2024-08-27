@@ -5,7 +5,7 @@ title: Lorem Ipsum
 
 **Grille Tarifiaire** 
 
-Nos differents prix sont les suivants :
+Nos differents prix sont les suivants : 
 
 Marmite chauffante------------15$
 

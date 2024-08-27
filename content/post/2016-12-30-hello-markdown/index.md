@@ -3,7 +3,7 @@ title: "A Plain Markdown Post"
 date: "2024-08-26T21:49:57-07:00" 
 ---
 
-Nous livrons si toutes fois vous etes trop occupé a passer recuperer les
+Nous livrons si toutes fois vous etes trop occupé a passer recuperer les 
 marmites et les couverts. Pour cela, nous offrons une livraison gratuites à
 partir d'un certains montant de commande sinon la livraison vous ai facturé.
 
