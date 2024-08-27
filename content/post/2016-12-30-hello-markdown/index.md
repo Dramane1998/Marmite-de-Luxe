@@ -1,9 +1,9 @@
 ---
-title: "A Plain Markdown Post"
+title: "Nos conditions"
 date: "2016-12-30T21:49:57-07:00" 
 ---
 
-Nous livrons si toutes fois vous etes trop occupé a passer recuperer les 
+Nous livrons si toutes fois vous etes trop occupé à passer récuperer les 
 marmites et les couverts. Pour cela, nous offrons une livraison gratuites à
 partir d'un certains montant de commande sinon la livraison vous ai facturé.
 
