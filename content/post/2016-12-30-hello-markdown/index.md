@@ -11,5 +11,5 @@ Nous livrons partout à Montréal et ses villes alentoures.
 
 Pour toute location de 5 marmites chaufantes et plus nous proposons un prix 
 unitaire de 10$ par mamrmite au lieu de 15$ et partir d'une location de 15 
-marmites et plus vous aurez droit à 5 bougies gratuitement pour rechauffer 
+marmites et plus vous aurez droit à 5 bougies gratuitement pour rechauffer
 votre nourriture.    
