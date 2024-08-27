@@ -19,7 +19,7 @@ Fourchette--------------------1$
 
 Couteau-----------------------1$
 
-
+ 
 NB: Les prix de locations sont unitaires.
 
 ***Une caution de 100$ est toujours versée à la prise de possesion et remboursée
