@@ -1,10 +1,6 @@
 ---
 title: "Nos conditions"
-<<<<<<< HEAD
-date: "2024-12-30T21:49:57-07:00" 
-=======
 date: "2016-12-30T21:49:57-07:00" 
->>>>>>> 6b523b962ca61360542bcd3064b997b24e138e8e
 ---
 
 Nous livrons si toutes fois vous etes trop occupé à passer récuperer les 
